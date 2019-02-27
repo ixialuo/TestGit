@@ -16,6 +16,8 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
+    
+    NSLog(@"dev1 分支");
 
     NSLog(@"dev22222 分支");
 }
